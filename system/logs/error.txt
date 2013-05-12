@@ -1,0 +1,20 @@
+2013-05-12 0:45:35 - PHP Warning:  fopen(/Users/rafaturtle/Sites/store/download/test) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in /Users/rafaturtle/Sites/store/admin/controller/common/home.php on line 99
+2013-05-12 0:45:35 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /Users/rafaturtle/Sites/store/admin/controller/common/home.php on line 101
+2013-05-12 0:45:35 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /Users/rafaturtle/Sites/store/admin/controller/common/home.php on line 103
+2013-05-12 0:45:35 - PHP Warning:  sprintf() [<a href='function.sprintf'>function.sprintf</a>]: Too few arguments in /Users/rafaturtle/Sites/store/admin/controller/common/home.php on line 106
+2013-05-12 1:04:14 - PHP Notice:  Undefined variable: tab_module in /Users/rafaturtle/Sites/store/admin/view/template/module/credit_box.tpl on line 21
+2013-05-12 1:04:14 - PHP Notice:  Undefined variable: languages in /Users/rafaturtle/Sites/store/admin/view/template/module/credit_box.tpl on line 29
+2013-05-12 1:04:14 - PHP Warning:  Invalid argument supplied for foreach() in /Users/rafaturtle/Sites/store/admin/view/template/module/credit_box.tpl on line 29
+2013-05-12 1:04:14 - PHP Notice:  Undefined variable: languages in /Users/rafaturtle/Sites/store/admin/view/template/module/credit_box.tpl on line 33
+2013-05-12 1:04:14 - PHP Warning:  Invalid argument supplied for foreach() in /Users/rafaturtle/Sites/store/admin/view/template/module/credit_box.tpl on line 33
+2013-05-12 1:04:14 - PHP Notice:  Undefined variable: languages in /Users/rafaturtle/Sites/store/admin/view/template/module/credit_box.tpl on line 109
+2013-05-12 1:04:14 - PHP Warning:  Invalid argument supplied for foreach() in /Users/rafaturtle/Sites/store/admin/view/template/module/credit_box.tpl on line 109
+2013-05-12 1:04:14 - PHP Notice:  Undefined variable: languages in /Users/rafaturtle/Sites/store/admin/view/template/module/credit_box.tpl on line 128
+2013-05-12 1:04:14 - PHP Warning:  Invalid argument supplied for foreach() in /Users/rafaturtle/Sites/store/admin/view/template/module/credit_box.tpl on line 128
+2013-05-12 1:04:14 - PHP Notice:  Undefined variable: languages in /Users/rafaturtle/Sites/store/admin/view/template/module/credit_box.tpl on line 133
+2013-05-12 1:04:14 - PHP Warning:  Invalid argument supplied for foreach() in /Users/rafaturtle/Sites/store/admin/view/template/module/credit_box.tpl on line 133
+2013-05-12 1:04:14 - PHP Notice:  Undefined variable: languages in /Users/rafaturtle/Sites/store/admin/view/template/module/credit_box.tpl on line 178
+2013-05-12 1:04:14 - PHP Warning:  Invalid argument supplied for foreach() in /Users/rafaturtle/Sites/store/admin/view/template/module/credit_box.tpl on line 178
+2013-05-12 1:04:14 - PHP Notice:  Undefined variable: tab_module in /Users/rafaturtle/Sites/store/admin/view/template/module/credit_box.tpl on line 191
+2013-05-12 1:05:14 - PHP Notice:  Undefined index: description in /Users/rafaturtle/Sites/store/catalog/controller/module/credit_box.php on line 9
+2013-05-12 1:05:14 - PHP Notice:  Undefined index: description in /Users/rafaturtle/Sites/store/catalog/controller/module/credit_box.php on line 9
